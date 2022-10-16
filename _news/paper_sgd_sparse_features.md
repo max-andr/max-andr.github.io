@@ -4,7 +4,7 @@ date: 2022-10-12 00:00:01+0200
 inline: true
 ---
 
-Our paper **[SGD with large step sizes learns sparse features](https://arxiv.org/abs/2210.05337)** is available online! TL;DR: loss stabilization achieved via SGD with large step sizes leads to a hidden dynamics that promotes sparse feature learning.
+Our paper **[SGD with large step sizes learns sparse features](https://arxiv.org/abs/2210.05337)** is available online! TL;DR: loss stabilization achieved via SGD with large step sizes leads to a hidden dynamics that promotes sparse feature learning. Also see [this twitter thread](https://twitter.com/maksym_andr/status/1580564569436524544) for a quick summary of the main ideas.
 
 <div align="center">
   <img src="./assets/img/publication_preview/sgd_sparse_features_fig1.png" alt="Summary" width="65%" style="vertical-align: bottom">
