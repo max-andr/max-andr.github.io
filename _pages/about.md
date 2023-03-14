@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 **[[twitter](https://twitter.com/maksym_andr)]** &emsp; &nbsp;
 **[[google scholar](https://scholar.google.com/citations?user=ZNtuJYoAAAAJ)]** &emsp; &nbsp;
 **[[github](https://github.com/max-andr)]** &emsp; &nbsp;
-**[[cv](assets/pdf/CV, Maksym Andriushchenko, Oct 2022.pdf)]**
+**[[cv](assets/pdf/CV, Maksym Andriushchenko.pdf)]**
 
 <!-- github_username: max-andr # your GitHub user name
 # gitlab_username: # your GitLab user name
