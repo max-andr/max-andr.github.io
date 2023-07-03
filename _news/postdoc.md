@@ -4,4 +4,4 @@ date: 2024-09-01
 inline: true
 ---
 
-**Slowly looking for a postdoc position starting from September 2024!**
+**Looking for a postdoc position to start in <u>September 2024</u>. If you think my background can be a good fit, I'd be happy to discuss!**
