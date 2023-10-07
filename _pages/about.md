@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+# title: about
 permalink: /
 # subtitle: <b>PhD student at EPFL 🇨🇭 
 
@@ -17,11 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**[[email](mailto:maksym@andriushchenko.me)]** &emsp; &nbsp;
-**[[twitter](https://twitter.com/maksym_andr)]** &emsp; &nbsp;
-**[[google scholar](https://scholar.google.com/citations?user=ZNtuJYoAAAAJ)]** &emsp; &nbsp;
-**[[github](https://github.com/max-andr)]** &emsp; &nbsp;
-**[[cv](assets/pdf/CV, Maksym Andriushchenko.pdf)]**
+
+**[`Email`](mailto:maksym@andriushchenko.me)** &emsp; 
+**[`Twitter/X`](https://twitter.com/maksym_andr)** &emsp; 
+**[`Google Scholar`](https://scholar.google.com/citations?user=ZNtuJYoAAAAJ)** &emsp; 
+**[`GitHub`](https://github.com/max-andr)** &emsp; 
+**[`CV`](assets/pdf/CV, Maksym Andriushchenko.pdf)**
 
 <!-- github_username: max-andr # your GitHub user name
 # gitlab_username: # your GitLab user name
