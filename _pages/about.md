@@ -54,24 +54,21 @@ My primary research goal is to understand robustness and generalization in deep 
 
 
 
-<!-- ## selected publications
-Full list: **[google scholar](https://scholar.google.com/citations?user=ZNtuJYoAAAAJ)**
+## selected publications
 
-**M. Andriushchenko**, N. Flammarion. *[Towards Understanding Sharpness-Aware Minimization](https://arxiv.org/abs/2206.06232)* (ICML'22)
+**M. Andriushchenko**, F. Croce, N. Flammarion. [Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://arxiv.org/abs/2404.02151) (arXiv, Apr 2024)
 
-**M. Andriushchenko**, X. Li, G. Oxholm, T. Gittings, T. Bui, N. Flammarion, J. Collomosse *[ARIA: Adversarially Robust Image Attribution](https://arxiv.org/abs/2202.12860)* (CVPR'22 Workshop on Media Forensics)
+<!-- P. Chao\*, E. Debenedetti\*, A. Robey\*, **M. Andriushchenko\***, F. Croce, V. Sehwag, E. Dobriban, N. Flammarion, G.J. Pappas, F. Tramer, H. Hassani, E. Wong. [JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](https://arxiv.org/abs/2404.01318) (arXiv, Apr 2024) -->
 
-F. Croce\*, **M. Andriushchenko\***, V. Sehwag*, N. Flammarion, M. Chiang, P. Mittal, M. Hein. RobustBench: a standardized adversarial robustness benchmark (NeurIPS'21 Datasets and Benchmarks Track, Best Paper Honorable Mention Prize at ICLR'21 Workshop on Security and Safety in Machine Learning Systems)
+H. Zhao, **M. Andriushchenko**, F. Croce, N. Flammarion. [Long is more for alignment: A simple but tough-to-beat baseline for instruction fine-tuning](https://arxiv.org/abs/2402.04833) (arXiv, Feb 2024)
 
-M. Mosbach, **M. Andriushchenko**, D. Klakow. On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines (ICLR'21)
+**M. Andriushchenko**, A. Varre, L. Pillaud-Vivien, N. Flammarion. [SGD with Large Step Sizes Learns Sparse Features](https://arxiv.org/abs/2210.05337) (ICML 2023)
 
-**M. Andriushchenko**, N. Flammarion. Understanding and Improving Fast Adversarial training (NeurIPS'20) 
+**M. Andriushchenko**, N. Flammarion. [Towards Understanding Sharpness-Aware Minimization](https://arxiv.org/abs/2206.06232) (ICML 2022)
 
-**M. Andriushchenko\***, F. Croce\*, N. Flammarion, M. Hein. Square Attack: a query-efficient black-box adversarial attack via random search (ECCV'20)
+F. Croce\*, **M. Andriushchenko\***, V. Sehwag\*, E. Debenedetti\*, N. Flammarion, M. Chiang, P. Mittal, M. Hein. [RobustBench: a standardized adversarial robustness benchmark](https://arxiv.org/abs/2010.09670) (NeurIPS 2021 Datasets and Benchmarks Track, Best Paper Honorable Mention Prize at ICLR'21 Workshop on Security and Safety in ML Systems)
 
-**M. Andriushchenko**, M. Hein. Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks
-(NeurIPS'19)
+**M. Andriushchenko**, N. Flammarion. [Understanding and Improving Fast Adversarial training](https://arxiv.org/abs/2007.02617) (NeurIPS 2020) 
 
-M. Hein, **M. Andriushchenko**, J. Bitterwolf. Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem (oral at CVPR'19, 5.6% acceptance rate)
+**M. Andriushchenko\***, F. Croce\*, N. Flammarion, M. Hein. [Square Attack: a query-efficient black-box adversarial attack via random search](https://arxiv.org/abs/1912.00049) (ECCV 2020)
 
-M. Hein and **M. Andriushchenko**. Formal Guarantees on the Robustness of a Classifier Against Adversarial Manipulation (NeurIPS'17) -->
