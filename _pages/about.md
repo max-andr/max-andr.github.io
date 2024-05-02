@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 **[`Twitter/X`](https://twitter.com/maksym_andr)** &emsp; 
 **[`Google Scholar`](https://scholar.google.com/citations?user=ZNtuJYoAAAAJ)** &emsp; 
 **[`GitHub`](https://github.com/max-andr)** &emsp; 
-**[`CV`](assets/pdf/cv.pdf)**
+**[`CV`](cv.pdf)**
 
 <!-- github_username: max-andr # your GitHub user name
 # gitlab_username: # your GitLab user name
@@ -60,7 +60,7 @@ My primary research goal is to understand robustness and generalization in deep 
 
 <!-- P. Chao\*, E. Debenedetti\*, A. Robey\*, **M. Andriushchenko\***, F. Croce, V. Sehwag, E. Dobriban, N. Flammarion, G.J. Pappas, F. Tramer, H. Hassani, E. Wong. [JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](https://arxiv.org/abs/2404.01318) (arXiv, Apr 2024) -->
 
-H. Zhao, **M. Andriushchenko**, F. Croce, N. Flammarion. [Long is more for alignment: A simple but tough-to-beat baseline for instruction fine-tuning](https://arxiv.org/abs/2402.04833) (arXiv, Feb 2024)
+H. Zhao, **M. Andriushchenko**, F. Croce, N. Flammarion. [Long is more for alignment: A simple but tough-to-beat baseline for instruction fine-tuning](https://arxiv.org/abs/2402.04833) (ICML 2024)
 
 **M. Andriushchenko**, A. Varre, L. Pillaud-Vivien, N. Flammarion. [SGD with Large Step Sizes Learns Sparse Features](https://arxiv.org/abs/2210.05337) (ICML 2023)
 
