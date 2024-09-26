@@ -56,9 +56,9 @@ My primary research goal is to understand robustness and generalization in deep 
 
 ## selected publications
 
-A. Zou, L. Phan, J. Wang, D. Duenas, M. Lin, **M. Andriushchenko**, R. Wang, Z. Kolter, M. Fredrikson, D. Hendrycks. [Improving Alignment and Robustness with Short Circuiting](https://arxiv.org/abs/2406.04313) (arXiv, June 2024)
+A. Zou, L. Phan, J. Wang, D. Duenas, M. Lin, **M. Andriushchenko**, R. Wang, Z. Kolter, M. Fredrikson, D. Hendrycks. [Improving Alignment and Robustness with Short Circuiting](https://arxiv.org/abs/2406.04313) (NeurIPS 2024)
 
-**M. Andriushchenko**, F. Croce, N. Flammarion. [Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://arxiv.org/abs/2404.02151) (arXiv, Apr 2024)
+**M. Andriushchenko**, F. Croce, N. Flammarion. [Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://arxiv.org/abs/2404.02151) (ICML 2024 Workshop on the Next Generation of AI Safety)
 
 <!-- P. Chao\*, E. Debenedetti\*, A. Robey\*, **M. Andriushchenko\***, F. Croce, V. Sehwag, E. Dobriban, N. Flammarion, G.J. Pappas, F. Tramer, H. Hassani, E. Wong. [JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](https://arxiv.org/abs/2404.01318) (arXiv, Apr 2024) -->
 
