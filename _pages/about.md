@@ -37,7 +37,7 @@ scholar_userid: ZNtuJYoAAAAJ -->
 **Students.** I have supervised 13 students from EPFL and other universities. Their work has been accepted at top-tier conferences (such as [NeurIPS](https://arxiv.org/abs/2010.09670) and [ICML](https://arxiv.org/abs/2402.04833)), received academic recognition (Best Paper Honorable Mention Prize at an [ICLR Workshop](https://aisecure-workshop.github.io/aml-iclr2021/), a [nomination](https://marcelluszhao.github.io/) for EPFL Outstanding Master's Thesis), and has been featured in [press](https://www.mittrchina.com/news/detail/13848). See [my CV](cv.pdf) for more details.
 <!-- Alexander Panfilov (University of Tübingen; co-supervising with Jonas Geiping within the ELLIS PhD program), Joshua Freeman (ETH), Hao Zhao (EPFL), Hichem Hadhri (EPFL), Tiberiu Musat (EPFL), Francesco d'Angelo (EPFL), Théau Vannier (EPFL), Jana Vuckovic (EPFL), Mehrdad Saberi (EPFL), Edoardo Debenedetti (EPFL), Klim Kireev (EPFL), Etienne Bonvin (EPFL), Oriol Barbany (EPFL). -->
 
-**I am on the faculty job market this 2024-2025 academic year. If you think my background can be a good fit for your department, please let me know. My research statement can be found [here](rs.pdf).**
+**I am on the faculty job market for the 2024-2025 academic year. If you think my background can be a good fit for your department, please let me know. My research statement can be found [here](rs.pdf).**
 
 
 <!-- **Research interests.** -->
