@@ -40,12 +40,15 @@ social: true  # includes social icons at the bottom of the page
 <!-- 👥 **Current group members**:  -->
 ## AI Safety and Alignment Group
 
-Current group members:
-- [Alexander Panfilov](https://kotekjedi.github.io/) (PhD student, main advisor: [Jonas Geiping](https://jonasgeiping.github.io/))
-- [Ben Rank](https://www.linkedin.com/in/ben-rank) (PhD student)
-- [David Schmotz](https://www.linkedin.com/in/david-schmotz-840660150/) (PhD student)
+**PhD students:**
+- [Ben Rank](https://www.linkedin.com/in/ben-rank)
+- [David Schmotz](https://www.linkedin.com/in/david-schmotz-840660150/)
+- [Jeremy Qin](https://jeremy-qin.github.io/)
+- [Alexander Panfilov](https://kotekjedi.github.io/) (co-supervision within the ELLIS PhD program; main advisor: [Jonas Geiping](https://jonasgeiping.github.io/))
+- [Hardik Bhatnagar](https://hrdkbhatnagar.github.io/) (inofficial co-supervision; main advisor: [Matthias Bethge](https://bethgelab.org/))
 
-Additionally, I've had the pleasure to supervise the following students: 
+
+**Alumni:**
 - Joshua Freeman (master's project at ETH Zurich → SWE Intern at Meta)
 - Hao Zhao (master's thesis at EPFL → PhD student at EPFL)
 - Hichem Hadhri (master's project at EPFL → Data Science Intern at Swisscom)
