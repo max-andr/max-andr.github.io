@@ -29,7 +29,11 @@ social: true  # includes social icons at the bottom of the page
 👋 **Short bio.** I am a principal investigator at the [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/) and the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), where I lead the AI Safety and Alignment group. I also serve as chapter lead for the new edition of the [International AI Safety Report](https://arxiv.org/abs/2501.17805) chaired by Yoshua Bengio. I have worked on AI safety with leading organizations in the field (OpenAI, Anthropic, UK AI Safety Institute, Center for AI Safety, Gray Swan AI). I obtained my PhD in machine learning from EPFL in 2024 advised by [Prof. Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion). My PhD thesis was awarded the Patrick Denantes Memorial Prize for the best thesis in the CS department of EPFL and was supported by the [Google](https://research.google/outreach/phd-fellowship/recipients/) and [Open Phil AI](https://www.openphilanthropy.org/grants/open-phil-ai-fellowship-2022-class/) PhD Fellowships. 
 <!-- I completed my MSc at Saarland University and the University of Tübingen, and interned at Adobe Research.  -->
 
-📣 **I'm hiring!** I'm looking for one postdoc, multiple PhD students (apply to [CLS](https://learning-systems.org/), [ELLIS](https://ellis.eu/phd-postdoc), [IMPRS-IS](https://imprs.is.mpg.de/) by November 2025 to start in Spring–Fall 2026), and multiple master's thesis students. **If you are interested, please fill out [this Google form](https://forms.gle/uu1UrN8RQrSy8wUk8). I will review every application and will reach out if there is a good fit.**
+📣 **I'm hiring!** If you are interested in working with me, please fill out **[this Google form](https://forms.gle/uu1UrN8RQrSy8wUk8)**. I will review every application and reach out if there is a good fit. I'm hiring exceptional candidates in all areas, but I'm particularly looking for:
+- one postdoc with a proven track record in AI safety, 
+- PhD students with a strong computer science background and ideally experience in cybersecurity, interpretability, or training dynamics (apply to [CLS](https://learning-systems.org/), [ELLIS](https://ellis.eu/phd-postdoc), [IMPRS-IS](https://imprs.is.mpg.de/) by November 2025 to start in Spring–Fall 2026), 
+- master's thesis students (if you are already in Tübingen or can relocate to Tübingen for ~6 months),
+- mentees for the [Summer 2026 MATS](https://www.matsprogram.org/) cohort (apply directly via the MATS application portal).
 
 🔍 **Research topics.** We focus on developing algorithmic solutions to reduce harms from advanced general-purpose AI models. We're particularly interested in alignment of autonomous LLM agents, which are becoming increasingly capable and pose a variety of emerging risks. We're also interested in rigorous AI evaluations and informing the public about the risks and capabilities of frontier AI models. Additionally, we aim to advance our understanding of how AI models generalize, which is crucial for ensuring their steerability and reducing associated risks. For more information about research topics relevant to our group, please check the following documents: [International AI Safety Report](https://arxiv.org/abs/2501.17805), [An Approach to Technical AGI Safety and Security by DeepMind](https://arxiv.org/abs/2504.01849), [Open Philanthropy’s 2025 RFP for Technical AI Safety Research](https://www.openphilanthropy.org/tais-rfp-research-areas/).
 
@@ -45,7 +49,7 @@ social: true  # includes social icons at the bottom of the page
 - [David Schmotz](https://www.linkedin.com/in/david-schmotz-840660150/)
 - [Jeremy Qin](https://jeremy-qin.github.io/)
 - [Alexander Panfilov](https://kotekjedi.github.io/) (co-supervision within the ELLIS PhD program; main advisor: [Jonas Geiping](https://jonasgeiping.github.io/))
-- [Hardik Bhatnagar](https://hrdkbhatnagar.github.io/) (inofficial co-supervision; main advisor: [Matthias Bethge](https://bethgelab.org/))
+- [Hardik Bhatnagar](https://hrdkbhatnagar.github.io/) (unofficial co-supervision; main advisor: [Matthias Bethge](https://bethgelab.org/))
 
 
 **Alumni:**
