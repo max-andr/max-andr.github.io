@@ -8,7 +8,7 @@ middle_name:
 last_name: Andriushchenko
 # email: maksym@andriushchenko.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I'm a PhD student in computer science at EPFL advised by Nicolas Flammarion. I'm interested in understanding why machine learning works and why it fails.
+  Principal investigator at the ELLIS Institute Tübingen and the Max Planck Institute for Intelligent Systems, where I lead the AI Safety and Alignment group.
 footer_text: 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
