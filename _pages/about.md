@@ -45,13 +45,18 @@ social: true  # includes social icons at the bottom of the page
 <!-- 👥 **Current group members**:  -->
 ## AI Safety and Alignment Group
 
-**PhD students:**
-- [Ben Rank](https://www.linkedin.com/in/ben-rank)
-- [David Schmotz](https://www.linkedin.com/in/david-schmotz-840660150/)
-- [Jeremy Qin](https://jeremy-qin.github.io/)
-- [Jeanne Salle](https://scholar.google.com/citations?user=qr-gsXMAAAAJ) (co-supervised with [Sahar Abdelnabi](https://s-abdelnabi.github.io/))
-- [Alexander Panfilov](https://kotekjedi.github.io/) (co-supervised with [Jonas Geiping](https://jonasgeiping.github.io/))
-- [Hardik Bhatnagar](https://hrdkbhatnagar.github.io/) (co-supervised with [Matthias Bethge](https://bethgelab.org/))
+**Group members:**
+- [Ben Rank](https://www.linkedin.com/in/ben-rank) (PhD student)
+- [David Schmotz](https://www.linkedin.com/in/david-schmotz-840660150/) (PhD student)
+- [Jeremy Qin](https://jeremy-qin.github.io/) (PhD student)
+- [Jeanne Salle](https://scholar.google.com/citations?user=qr-gsXMAAAAJ) (PhD student, co-supervised with [Sahar Abdelnabi](https://s-abdelnabi.github.io/))
+- [Alexander Panfilov](https://kotekjedi.github.io/) (PhD student, co-supervised with [Jonas Geiping](https://jonasgeiping.github.io/))
+- [Hardik Bhatnagar](https://hrdkbhatnagar.github.io/) (PhD student, co-supervised with [Matthias Bethge](https://bethgelab.org/))
+- [Yuchen Zhang](https://zycalice.github.io/) (research intern)
+- [Jehyeok Yeon](https://jeybird248.github.io/) (research intern)
+- [Jonas Wiedermann-Möller](https://jowimo.com/) (master's thesis)
+- [Changling Li](https://changlingli.com/) (master's thesis)
+- [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
 
 
 **Alumni:**
