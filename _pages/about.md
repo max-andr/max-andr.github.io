@@ -54,6 +54,7 @@ social: true  # includes social icons at the bottom of the page
 - [Hardik Bhatnagar](https://hrdkbhatnagar.github.io/) (PhD student, co-supervised with [Matthias Bethge](https://bethgelab.org/))
 - [Yuchen Zhang](https://zycalice.github.io/) (research intern)
 - [Jehyeok Yeon](https://jeybird248.github.io/) (research intern)
+- [Anietta Weckauff](https://www.linkedin.com/in/anietta-weckauff/) (research intern)
 - [Jonas Wiedermann-Möller](https://jowimo.com/) (master's thesis)
 - [Changling Li](https://changlingli.com/) (master's thesis)
 - [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
