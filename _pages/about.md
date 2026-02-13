@@ -58,6 +58,7 @@ social: true  # includes social icons at the bottom of the page
 - [Jonas Wiedermann-Möller](https://jowimo.com/) (master's thesis)
 - [Changling Li](https://changlingli.com/) (master's thesis)
 - [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
+- [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
 
 
 **Alumni:**
