@@ -6,15 +6,15 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_ludwigs.jpeg
   image_circular: false # crops the image to make it circulare
-  address: Enjoying the gorgeous 🇨🇭 peaks! This one is <a href="https://en.wikipedia.org/wiki/Rochers_de_Naye">Rochers de Naye</a>. #>
+  # address: Enjoying the gorgeous 🇨🇭 peaks! This one is <a href="https://en.wikipedia.org/wiki/Rochers_de_Naye">Rochers de Naye</a>. #>
     # <p>EPFL, Lausanne, 🇨🇭</p>
     
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 
@@ -30,11 +30,15 @@ social: true  # includes social icons at the bottom of the page
 <!-- Before that, I completed my MSc at Saarland University and the University of Tübingen, and interned at Adobe Research. -->
 
 
-📣 **I'm hiring!** If you are interested in working with me, please fill out **[this Google form](https://forms.gle/uu1UrN8RQrSy8wUk8)**. I will review every application and reach out if there is a good fit. I'm hiring exceptional candidates in all areas, but I'm particularly looking for:
-- one postdoc with a proven track record in AI safety, 
-- PhD students with a strong computer science background and ideally experience in cybersecurity, interpretability, or training dynamics (apply to [CLS](https://learning-systems.org/), [ELLIS](https://ellis.eu/phd-postdoc), [IMPRS-IS](https://imprs.is.mpg.de/) by November 2025 to start in Spring–Fall 2026), 
-- master's thesis students (if you are already in Tübingen or can relocate to Tübingen for ~6 months),
-- mentees for the [Summer 2026 MATS](https://www.matsprogram.org/) cohort (apply directly via the MATS application portal).
+<div style="border-left: 4px solid var(--global-theme-color); padding: 0.8rem 1rem; margin: 1.5rem 0; background-color: rgba(128, 0, 128, 0.04); border-radius: 0 4px 4px 0;">
+<p style="margin-bottom: 0.5rem;">📣 <strong>I'm hiring!</strong> If you are interested in working with me, please fill out <strong><a href="https://forms.gle/uu1UrN8RQrSy8wUk8">this Google form</a></strong>. I will review every application and reach out if there is a good fit. I'm hiring exceptional candidates in all areas, but I'm particularly looking for:</p>
+<ul style="margin-bottom: 0;">
+<li>one postdoc with a proven track record in AI safety,</li>
+<li>PhD students with a strong computer science background and ideally experience in cybersecurity, interpretability, or training dynamics (apply to <a href="https://learning-systems.org/">CLS</a>, <a href="https://ellis.eu/phd-postdoc">ELLIS</a>, <a href="https://imprs.is.mpg.de/">IMPRS-IS</a> by November 2025 to start in Spring–Fall 2026),</li>
+<li>master's thesis students (if you are already in Tübingen or can relocate to Tübingen for ~6 months),</li>
+<li>mentees for the <a href="https://www.matsprogram.org/">Summer 2026 MATS</a> cohort (apply directly via the MATS application portal).</li>
+</ul>
+</div>
 
 🔍 **Research topics.** We focus on developing algorithmic solutions to reduce harms from advanced general-purpose AI models. We're particularly interested in alignment of autonomous LLM agents, which are becoming increasingly capable and pose a variety of emerging risks. We're also interested in rigorous AI evaluations and informing the public about the risks and capabilities of frontier AI models. Additionally, we aim to advance our understanding of how AI models generalize, which is crucial for ensuring their steerability and reducing associated risks. For more information about research topics relevant to our group, please check the following documents: [International AI Safety Report](https://arxiv.org/abs/2501.17805), [An Approach to Technical AGI Safety and Security by DeepMind](https://arxiv.org/abs/2504.01849), [Open Philanthropy’s 2025 RFP for Technical AI Safety Research](https://www.openphilanthropy.org/tais-rfp-research-areas/).
 
@@ -42,24 +46,29 @@ social: true  # includes social icons at the bottom of the page
 
 🌟 **Broader vision.** Current machine learning methods are fundamentally different from what they used to be pre-2022. [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) summarized and predicted this shift very well back in 2019: *"general methods that leverage computation are ultimately the most effective"*. Taking this into account, we are only interested in studying methods that are general and scale with intelligence and compute. Everything that helps to advance their safety and alignment with societal values is relevant to us. We believe getting this—some may call it "AGI"—right is one of the most important challenges of our time. **Join us on this journey!**
 
-<!-- 👥 **Current group members**:  -->
+---
+
 ## AI Safety and Alignment Group
 
-**Group members:**
-- [Ben Rank](https://www.linkedin.com/in/ben-rank) (PhD student)
-- [David Schmotz](https://www.linkedin.com/in/david-schmotz-840660150/) (PhD student)
-- [Jeremy Qin](https://jeremy-qin.github.io/) (PhD student)
-- [Jeanne Salle](https://scholar.google.com/citations?user=qr-gsXMAAAAJ) (PhD student, co-supervised with [Sahar Abdelnabi](https://s-abdelnabi.github.io/))
-- [Alexander Panfilov](https://kotekjedi.github.io/) (PhD student, co-supervised with [Jonas Geiping](https://jonasgeiping.github.io/))
-- [Hardik Bhatnagar](https://hrdkbhatnagar.github.io/) (PhD student, co-supervised with [Matthias Bethge](https://bethgelab.org/))
-- [Yuchen Zhang](https://zycalice.github.io/) (research intern)
-- [Jehyeok Yeon](https://jeybird248.github.io/) (research intern)
-- [Anietta Weckauff](https://www.linkedin.com/in/anietta-weckauff/) (research intern)
-- [Jonas Wiedermann-Möller](https://jowimo.com/) (master's thesis)
-- [Changling Li](https://changlingli.com/) (master's thesis)
-- [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
-- [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
+<div style="margin-bottom: 1.5rem;">
+  <img src="./assets/img/group_faros_jan_2026.jpeg" class="img-fluid z-depth-1 rounded" alt="AI Safety and Alignment Group"/>
+</div>
 
+**Group members:**
+1. [Ben Rank](https://www.linkedin.com/in/ben-rank) (PhD student)
+2. [David Schmotz](https://www.linkedin.com/in/david-schmotz-840660150/) (PhD student)
+3. [Jeremy Qin](https://jeremy-qin.github.io/) (PhD student)
+4. [Jeanne Salle](https://scholar.google.com/citations?user=qr-gsXMAAAAJ) (PhD student, co-supervised with [Sahar Abdelnabi](https://s-abdelnabi.github.io/))
+5. [Alexander Panfilov](https://kotekjedi.github.io/) (PhD student, co-supervised with [Jonas Geiping](https://jonasgeiping.github.io/))
+6. [Hardik Bhatnagar](https://hrdkbhatnagar.github.io/) (PhD student, co-supervised with [Matthias Bethge](https://bethgelab.org/))
+7. [Yuchen Zhang](https://zycalice.github.io/) (research intern)
+8. [Jehyeok Yeon](https://jeybird248.github.io/) (research intern)
+9. [Anietta Weckauff](https://www.linkedin.com/in/anietta-weckauff/) (research intern)
+10. [Raffaele Mura](https://rmura498.github.io/) (research intern)
+11. [Jonas Wiedermann-Möller](https://jowimo.com/) (master's thesis)
+12. [Changling Li](https://changlingli.com/) (master's thesis)
+13. [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
+14. [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
 
 **Alumni:**
 - Joshua Freeman (master's project at ETH Zurich → SWE Intern at Meta)
@@ -101,21 +110,4 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-## selected publications
-
-T. Kuntz, A. Duzan, H. Zhao, F. Croce, Z. Kolter, N. Flammarion, **M. Andriushchenko**. [OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents](https://arxiv.org/abs/2506.14866) (NeurIPS 2025 Datasets and Benchmarks Track, **Spotlight**)
-
-**M. Andriushchenko**, A. Souly, M. Dziemian, D. Duenas, M. Lin, J. Wang, D. Hendrycks, A. Zou, Z. Kolter, M. Fredrikson, E. Winsor, J. Wynne, Y. Gal, X. Davies. [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://arxiv.org/abs/2410.09024) (ICLR 2025)
-
-**M. Andriushchenko**, F. Croce, N. Flammarion. [Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://arxiv.org/abs/2404.02151) (ICLR 2025)
-
-A. Zou, L. Phan, J. Wang, D. Duenas, M. Lin, **M. Andriushchenko**, R. Wang, Z. Kolter, M. Fredrikson, D. Hendrycks. [Improving Alignment and Robustness with Circuit Breakers](https://arxiv.org/abs/2406.04313) (NeurIPS 2024)
-
-<!-- P. Chao\*, E. Debenedetti\*, A. Robey\*, **M. Andriushchenko\***, F. Croce, V. Sehwag, E. Dobriban, N. Flammarion, G.J. Pappas, F. Tramer, H. Hassani, E. Wong. [JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models](https://arxiv.org/abs/2404.01318) (arXiv, Apr 2024) -->
-
-<!-- **M. Andriushchenko**, N. Flammarion. [Towards Understanding Sharpness-Aware Minimization](https://arxiv.org/abs/2206.06232) (ICML 2022) -->
-
-<!-- F. Croce\*, **M. Andriushchenko\***, V. Sehwag\*, E. Debenedetti\*, N. Flammarion, M. Chiang, P. Mittal, M. Hein. [RobustBench: a standardized adversarial robustness benchmark](https://arxiv.org/abs/2010.09670) (NeurIPS 2021 Datasets and Benchmarks Track, Best Paper Honorable Mention Prize at ICLR'21 Workshop on Security and Safety in ML Systems) -->
-
-<!-- **M. Andriushchenko\***, F. Croce\*, N. Flammarion, M. Hein. [Square Attack: a query-efficient black-box adversarial attack via random search](https://arxiv.org/abs/1912.00049) (ECCV 2020) -->
 
