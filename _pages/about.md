@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic_ludwigs.jpeg
+  image: prof_pic_kelter.jpeg
   image_circular: false # crops the image to make it circulare
   # address: Enjoying the gorgeous 🇨🇭 peaks! This one is <a href="https://en.wikipedia.org/wiki/Rochers_de_Naye">Rochers de Naye</a>. #>
     # <p>EPFL, Lausanne, 🇨🇭</p>
