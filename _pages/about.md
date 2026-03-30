@@ -31,11 +31,10 @@ social: false  # includes social icons at the bottom of the page
 
 
 <div style="border-left: 4px solid var(--global-theme-color); padding: 0.8rem 1rem; margin: 1.5rem 0; background-color: rgba(128, 0, 128, 0.04); border-radius: 0 4px 4px 0;">
-<p style="margin-bottom: 0.5rem;">📣 <strong>I'm hiring!</strong> If you are interested in working with me, please fill out <strong><a href="https://forms.gle/uu1UrN8RQrSy8wUk8">this Google form</a></strong>. I will review every application and reach out if there is a good fit. I'm hiring exceptional candidates in all areas, but I'm particularly looking for:</p>
+<p style="margin-bottom: 0.5rem;">📣 <strong>I'm hiring!</strong> If you are interested in working with me, please fill out <strong><a href="https://forms.gle/uu1UrN8RQrSy8wUk8">this Google form</a></strong>. I will review every application and reach out if there is a good fit. I'm particularly looking for exceptional candidates for the following positions:</p>
 <ul style="margin-bottom: 0;">
 <li>a postdoctoral researcher with a proven track record in AI safety,</li>
-<li>master's thesis students (if you are already in Tübingen or can relocate to Tübingen for ~6 months),</li>
-<li>mentees for the <a href="https://www.matsprogram.org/">Summer 2026 MATS</a> cohort.</li>
+<li>master's thesis students (if you are already in Tübingen or can relocate to Tübingen for ~6 months).</li>
 </ul>
 </div>
 
@@ -64,10 +63,11 @@ social: false  # includes social icons at the bottom of the page
 8. [Jehyeok Yeon](https://jeybird248.github.io/) (research intern)
 9. [Anietta Weckauff](https://www.linkedin.com/in/anietta-weckauff/) (research intern)
 10. [Raffaele Mura](https://rmura498.github.io/) (research intern)
-11. [Jonas Wiedermann-Möller](https://jowimo.com/) (master's thesis)
-12. [Changling Li](https://changlingli.com/) (master's thesis)
-13. [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
-14. [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
+11. [Francesco Ortu](https://francescortu.github.io/) (research intern)
+12. [Jonas Wiedermann-Möller](https://jowimo.com/) (master's thesis)
+13. [Changling Li](https://changlingli.com/) (master's thesis)
+14. [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
+15. [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
 
 **Alumni:**
 - Joshua Freeman (master's project at ETH Zurich → SWE Intern at Meta)
