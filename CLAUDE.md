@@ -22,7 +22,9 @@ JEKYLL_ENV=production bundle exec jekyll build
 docker compose up
 ```
 
-**Requirements**: Ruby 3.0.2, Bundler, ImageMagick (for responsive images)
+**Requirements**: Ruby 3.3 (any 3.3.x), Bundler, ImageMagick (for responsive images)
+
+> Note: the upstream al-folio README pins Ruby 3.0.2, but that version is EOL and ships `uri 0.10.1`, which conflicts with `uri 1.x` required transitively by current gems. The deploy workflow uses Ruby 3.3 and local development should too.
 
 ## Deployment
 
