@@ -70,9 +70,10 @@ social: false  # includes social icons at the bottom of the page
 11. [Changling Li](https://changlingli.com/) (incoming PhD student, co-supervised with [Rediet Abebe](https://en.wikipedia.org/wiki/Rediet_Abebe))
 12. [David Guzman Piedrahita](https://www.linkedin.com/in/davidguzman1120/) (incoming PhD student, main advisor [Bob West](https://dlab.epfl.ch/people/west/))
 13. [Francesco Ortu](https://francescortu.github.io/) (research intern)
-14. [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
-15. [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
-16. [Arthur Wuhrmann](https://www.linkedin.com/in/arthur-wuhrmann-1a082932b/) (incoming master's thesis)
+14. [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
+15. [Arthur Wuhrmann](https://www.linkedin.com/in/arthur-wuhrmann-1a082932b/) (incoming master's thesis)
+16. [Michael Ofengenden](https://michaelofengenden.com/) (MATS mentee)
+17. [Owen Terry](https://www.linkedin.com/in/owen-kichizo-terry) (MATS mentee)
 
 **Alumni:**
 1. Oriol Barbany (master's project at EPFL → PhD student at UPC and EPFL)
@@ -93,6 +94,7 @@ social: false  # includes social icons at the bottom of the page
 16. [Jonas Wiedermann-Möller](https://jowimo.com/) (master's thesis)
 17. [Changling Li](https://changlingli.com/) (master's thesis)
 18. [Jehyeok Yeon](https://jeybird248.github.io/) (research intern)
+19. [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
 
 <!-- 🧑‍🎓 **Students.** I have supervised 13 students from EPFL and other universities. Their work has been accepted at top-tier conferences (such as [NeurIPS](https://arxiv.org/abs/2010.09670) and [ICML](https://arxiv.org/abs/2402.04833)), received academic recognition (Best Paper Honorable Mention Prize at an [ICLR Workshop](https://aisecure-workshop.github.io/aml-iclr2021/), a [nomination](https://marcelluszhao.github.io/) for EPFL Outstanding Master's Thesis), and has been featured in [press](https://www.mittrchina.com/news/detail/13848).  -->
 <!-- Alexander Panfilov (University of Tübingen; co-supervising with Jonas Geiping within the ELLIS PhD program), Joshua Freeman (ETH), Hao Zhao (EPFL), Hichem Hadhri (EPFL), Tiberiu Musat (EPFL), Francesco d'Angelo (EPFL), Théau Vannier (EPFL), Jana Vuckovic (EPFL), Mehrdad Saberi (EPFL), Edoardo Debenedetti (EPFL), Klim Kireev (EPFL), Etienne Bonvin (EPFL), Oriol Barbany (EPFL). -->
