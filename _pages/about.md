@@ -56,7 +56,7 @@ social: false  # includes social icons at the bottom of the page
   <img src="./assets/img/group_faros_jan_2026.jpeg" class="img-fluid z-depth-1 rounded" alt="AI Safety and Alignment Group"/>
 </div>
 
-**Group members:**
+**Research group:**
 1. [Ameya Prabhu](https://ameya.prabhu.be/) (postdoc jointly with [Matthias Bethge](https://bethgelab.org/))
 2. [Alexander Panfilov](https://kotekjedi.github.io/) (PhD student, main advisor [Jonas Geiping](https://jonasgeiping.github.io/))
 3. [Ben Rank](https://www.linkedin.com/in/ben-rank) (PhD student)
@@ -65,14 +65,15 @@ social: false  # includes social icons at the bottom of the page
 6. [Jeremy Qin](https://jeremy-qin.github.io/) (PhD student)
 7. [Jeanne Salle](https://scholar.google.com/citations?user=qr-gsXMAAAAJ) (PhD student, co-supervised with [Sahar Abdelnabi](https://s-abdelnabi.github.io/))
 8. [Jehyeok Yeon](https://jeybird248.github.io/) (incoming PhD student)
-9. [Fabian Grob](https://www.linkedin.com/in/fabian-grob/) (incoming PhD student, secondary advisor [Yonatan Belinkov](https://belinkov.com/))
-10. [Changling Li](https://changlingli.com/) (incoming PhD student, co-supervised with [Rediet Abebe](https://en.wikipedia.org/wiki/Rediet_Abebe))
-11. [David Guzman Piedrahita](https://www.linkedin.com/in/davidguzman1120/) (incoming PhD student, main advisor [Bob West](https://dlab.epfl.ch/people/west/))
-12. [Francesco Ortu](https://francescortu.github.io/) (research intern)
-13. [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
-14. [Arthur Wuhrmann](https://www.linkedin.com/in/arthur-wuhrmann-1a082932b/) (incoming master's thesis)
-15. [Michael Ofengenden](https://michaelofengenden.com/) (MATS mentee)
-16. [Owen Terry](https://www.linkedin.com/in/owen-kichizo-terry) (MATS mentee)
+9. [Ronald Skorobogat](https://www.linkedin.com/in/ronald-skorobogat/) (PhD student, main advisor [Matthias Bethge](https://bethgelab.org/))
+10. [Fabian Grob](https://www.linkedin.com/in/fabian-grob/) (incoming PhD student, secondary advisor [Yonatan Belinkov](https://belinkov.com/))
+11. [Changling Li](https://changlingli.com/) (incoming PhD student, co-supervised with [Rediet Abebe](https://en.wikipedia.org/wiki/Rediet_Abebe))
+12. [David Guzman Piedrahita](https://www.linkedin.com/in/davidguzman1120/) (incoming PhD student, main advisor [Bob West](https://dlab.epfl.ch/people/west/))
+13. [Francesco Ortu](https://francescortu.github.io/) (research intern)
+14. [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
+15. [Arthur Wuhrmann](https://www.linkedin.com/in/arthur-wuhrmann-1a082932b/) (incoming master's thesis)
+16. [Michael Ofengenden](https://michaelofengenden.com/) (MATS mentee)
+17. [Owen Terry](https://www.linkedin.com/in/owen-kichizo-terry) (MATS mentee)
 
 **Alumni:**
 1. Oriol Barbany (master's project at EPFL → PhD student at UPC and EPFL)
