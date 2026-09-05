@@ -34,7 +34,7 @@ social: false  # includes social icons at the bottom of the page
 </div> -->
 
 <div style="border-left: 4px solid var(--global-theme-color); padding: 0.8rem 1rem; margin: 1.5rem 0; background-color: rgba(128, 0, 128, 0.04); border-radius: 0 4px 4px 0;">
-<p style="margin-bottom: 0.5rem;">📣 <strong>I'm hiring!</strong> If you are interested in working with me, please fill out <strong><a href="https://forms.gle/uu1UrN8RQrSy8wUk8">this Google form</a></strong>. I will review every application and reach out if there is a good fit. I'm particularly looking for a postdoctoral researcher with a proven track record in AI safety. I also regularly hire full-time mentees through MATS through <a href="https://www.matsprogram.org/">their application process</a>.
+<p style="margin-bottom: 0.5rem;">📣 <strong>I'm hiring!</strong> If you are interested in working with me, please fill out <strong><a href="https://forms.gle/uu1UrN8RQrSy8wUk8">this Google form</a></strong>. I will review every application and reach out if there is a good fit. I'm now actively looking for a postdoctoral researcher with a strong background in CS, math, or physics. I also regularly hire full-time mentees through <a href="https://www.matsprogram.org/">MATS</a>. We are also looking for interns and founding MTS at <a href="https://expsec.ai/">Exponential Security Labs</a> (please reach out via <a href="mailto:careers@expsec.ai">careers@expsec.ai</a>).
 </p>
 <!-- <li>master's thesis students (if you are already in Tübingen or can relocate to Tübingen for ~6 months).</li> -->
 </div>
