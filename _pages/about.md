@@ -62,18 +62,16 @@ social: false  # includes social icons at the bottom of the page
 5. [Hardik Bhatnagar](https://hrdkbhatnagar.github.io/) (PhD student, co-supervised with [Matthias Bethge](https://bethgelab.org/))
 6. [Jeremy Qin](https://jeremy-qin.github.io/) (PhD student)
 7. [Jeanne Salle](https://scholar.google.com/citations?user=qr-gsXMAAAAJ) (PhD student, co-supervised with [Sahar Abdelnabi](https://s-abdelnabi.github.io/))
-8. [Jehyeok Yeon](https://jeybird248.github.io/) (PhD student)
+8. [Jehyeok Yeon](https://jeybird248.github.io/) (PhD student, on leave for Anthropic Fellows program)
 9. [Ronald Skorobogat](https://www.linkedin.com/in/ronald-skorobogat/) (PhD student, main advisor [Matthias Bethge](https://bethgelab.org/))
 10. [Fabian Grob](https://www.linkedin.com/in/fabian-grob/) (incoming PhD student, secondary advisor [Yonatan Belinkov](https://belinkov.com/))
 11. [Changling Li](https://changlingli.com/) (incoming PhD student, co-supervised with [Rediet Abebe](https://en.wikipedia.org/wiki/Rediet_Abebe))
 12. [David Guzman Piedrahita](https://www.linkedin.com/in/davidguzman1120/) (incoming PhD student, main advisor [Bob West](https://dlab.epfl.ch/people/west/))
-13. [Francesco Ortu](https://francescortu.github.io/) (research intern)
-14. [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
-15. [Arthur Wuhrmann](https://www.linkedin.com/in/arthur-wuhrmann-1a082932b/) (master's thesis)
-16. [Wenyuan Jiang](https://scholar.google.com/citations?user=7GvanH8AAAAJ) (incoming master's thesis)
-17. [Michael Ofengenden](https://michaelofengenden.com/) (MATS Summer 2026 mentee, extension)
-18. [Owen Terry](https://www.linkedin.com/in/owen-kichizo-terry) (MATS Summer 2026 mentee, extension)
-19. [Aniketh Garikaparthi](https://anikethh.github.io/) (MATS Autumn 2026 mentee)
+13. [Lena Libon](https://www.linkedin.com/in/lena-libon/) (master's thesis)
+14. [Arthur Wuhrmann](https://www.linkedin.com/in/arthur-wuhrmann-1a082932b/) (master's thesis)
+15. [Wenyuan Jiang](https://scholar.google.com/citations?user=7GvanH8AAAAJ) (incoming master's thesis)
+16. [Michael Ofengenden](https://michaelofengenden.com/) (MATS Summer 2026 mentee, extension)
+17. [Aniketh Garikaparthi](https://anikethh.github.io/) (MATS Autumn 2026 mentee)
 
 **Alumni:**
 1. Oriol Barbany (master's project at EPFL → PhD student at UPC and EPFL)
@@ -95,6 +93,8 @@ social: false  # includes social icons at the bottom of the page
 17. [Changling Li](https://changlingli.com/) (master's thesis)
 18. [Jehyeok Yeon](https://jeybird248.github.io/) (research intern)
 19. [Derck Prinzhorn](https://dweprinz.github.io/) (master's thesis)
+20. [Owen Terry](https://www.linkedin.com/in/owen-kichizo-terry) (MATS Summer 2026 mentee)
+21. [Francesco Ortu](https://francescortu.github.io/) (research intern)
 
 <!-- 🧑‍🎓 **Students.** I have supervised 13 students from EPFL and other universities. Their work has been accepted at top-tier conferences (such as [NeurIPS](https://arxiv.org/abs/2010.09670) and [ICML](https://arxiv.org/abs/2402.04833)), received academic recognition (Best Paper Honorable Mention Prize at an [ICLR Workshop](https://aisecure-workshop.github.io/aml-iclr2021/), a [nomination](https://marcelluszhao.github.io/) for EPFL Outstanding Master's Thesis), and has been featured in [press](https://www.mittrchina.com/news/detail/13848).  -->
 <!-- Alexander Panfilov (University of Tübingen; co-supervising with Jonas Geiping within the ELLIS PhD program), Joshua Freeman (ETH), Hao Zhao (EPFL), Hichem Hadhri (EPFL), Tiberiu Musat (EPFL), Francesco d'Angelo (EPFL), Théau Vannier (EPFL), Jana Vuckovic (EPFL), Mehrdad Saberi (EPFL), Edoardo Debenedetti (EPFL), Klim Kireev (EPFL), Etienne Bonvin (EPFL), Oriol Barbany (EPFL). -->
